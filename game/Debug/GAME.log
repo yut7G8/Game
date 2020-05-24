@@ -1,0 +1,10 @@
+﻿cl : コマンド ライン warning D9025: '/sdl' より '/GS-' が優先されます。
+  GAMESorce.cpp
+  Monster1.cpp
+  Monster2.cpp
+C:\Users\yut7G\OneDrive\ドキュメント\Game\game\Monster2.cpp(82,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\yut7G\OneDrive\ドキュメント\Game\game\Monster2.cpp(82,19): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Monster3.cpp
+  Player.cpp
+  コードを生成中...
+  GAME.vcxproj -> C:\Users\yut7G\OneDrive\ドキュメント\Game\game\Debug\GAME.exe
