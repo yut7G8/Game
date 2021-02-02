@@ -1,6 +1,6 @@
 # Game
 
-README.md更新日**2020年12月27日**
+README.md更新日**2021年2月2日**
 
 README.md編集者**yut7G8**
 
